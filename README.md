@@ -12,6 +12,6 @@ the data lake by clicking a button.
 4. Option to select a channel name and migrate its data from the data lake to a
 SQL database as tables.
 5. Ability to search and retrieve data from the SQL database using different
-search options, including joining tables to get channel details..
+search options, including joining tables to get channel details.
 
 
